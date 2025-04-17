@@ -2,7 +2,7 @@ package com.example.customersupportapp.screen
 
 import androidx.compose.runtime.Composable
 import androidx.navigation.NavHostController
-import androidx. navigation.compose.NavHost
+import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 
 
